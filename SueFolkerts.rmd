@@ -1,0 +1,70 @@
+﻿Sue Folkerts	
+Phone:  425 239 0231	LinkedIn:  www.linkedin.com/in/suefolkerts	Email:  szfolkerts@gmail.com
+
+I am a Senior Software Engineer with strong technical background, including 10 years of recent experience with C#.  I have experience with many successful projects involving Web Services and Windows Services that reference third party API’s.  My reviews say that I am well respected amongst my peers.  I bring a good sense of humor and dedication to resolve obstacles!  
+ 
+•	Programming Languages:  C#, C++, VB, very familiar with Visual Studio and Asp.Net
+•	SOAP Web Services: created web services that communicated with third party software, transaction processing
+•	SQL Server:  TSQL 2012, stored procedures, data modeling
+•	Web Development Tools:  IIS 7.5, WCF, Sockets, Threading
+•	Proficient Programming Knowledge of Asp.Net 
+•	Experience with TFS, Source Safe, and Perforce, including TFS DAPAC experience and Agile project management
+•	Experience being on-call, good at solving production issues
+•	Dedication to quality.  Good testing environments are critical.  
+ 
+Coding with Kids	Teacher	March 2017 – Current
+•	Exercise of presentation and communication skills used in teaching children to code.
+•	Debugging the odd things kids do.
+
+Annik, Seattle, WA	Data Analyst	July 2015 – November 2016
+•	Supporting Microsoft Financial Reporting, considering issues and writing audits.
+•	Answering user access questions.
+•	Running SSRS reports.
+•	VBA projects to retrieve data and reformat.
+
+LabelMaster, Seattle, WA	Developer	September 2014 – March 2015
+•	Rewrote library of content loading stored procedures to improve maintainability.
+•	Added functionality to existing .Net MVC project.
+•	Used dependency injection to make unit tests work on existing .Net code.
+•	Created .Net database projects to control deployment of database changes.
+•	Used SSIS extensively to transfer data between databases and create Excel spreadsheets.
+
+Coinstar, Bellevue, WA	Senior Software Engineer 	January 2001 – December/2013
+Designed and developed web services and windows services in C# using Visual Studio and .Net.  Designed and coded backend applications in C++.  Used TFS, Source Safe and Perforce source control systems.
+•	Investigated the need created a report that was widely used throughout the business.  This project included writing SQL stored procedures that mimicked the event processing on the Coinstar machine.  There were few changes ever needed to this report.  It provided critical information about the status of Coinstar machines.
+•	Wrote WCF application that provided an example of how our SOAP web services could be accessed using WCF, to be used by third parties.
+•	Created a customer database that was used throughout the company.  This database included email addresses and customer information, as well as links to the customer’s transactions.  I was the author of the data model and all stored procedures for this project.  
+•	Developed a message handling system that handled the problem of logs spread between machines using MSMQ to put messages into a SQL Server database that could be queried and allowed better investigation of issues. 
+•	Developed a high-volume TCP processing service to communicate with the Wal-Mart Point of Sale system.  Wal-Mart had specific requirements that were not always easy to satisfy.  The project was completed on time and was very successful.  I received an extra bonus for my work on this project.  
+•	Wrote first Web Service and first Windows Service authored by my team.  Enjoyed blazing the trail.  Good at coming up to speed quickly and making use of MSDN, Code Project, and other developer tools. 
+•	Developed stress testing tools that would allow QA to evaluate the robustness of the system.  Rated highly for producing high quality code.  Completed projects on time despite problems with Third Party code.  Good relationships with QA personnel.  
+•	Exceeds Expectations rating for on-call support.  Effectively monitored for and anticipated issues.  Provided information necessary to solve issues in a timely manner.  Created tools that operations could use to diagnose and get information about problems. 
+•	Keeps up on the latest technologies by taking classes, most recently from University of Washington Continuing Education. 
+•	Lead Consistent Coding meetings to keep team developers on the same page and producing quality, efficient and maintainable code. 
+•	Good Agile team member.  Took on QA roles as needed.  Provided tools to support QA.  Did whatever was needed to complete the sprint successfully. 
+•	Self-motivated, adaptable, positive, and good at prioritizing.  Works to improve processes.  Endeavors to facilitate code reuse where ever possible.  Gathers as much information as possible before making decisions.  Produces excellent documentation.  Well respected amongst my peers. 
+
+Solutions IQ, Bellevue, WA (Contract at Point.com)	Software Developer	April 2000 – November 2000
+Developed middle-tier web applications using Visual Basic, COM+, IIS and XML.  
+Did maintenance for front-end code written in ASP, VBScript and JavaScript.    
+Quinton Instrument Co., Bothell, WA	Senior Software Engineer 	September 1995 – April 2000
+Developed user interface programs using C++/MFC and VB.  
+Became a SQL Server 6.5 DBA.  
+Wrote libraries of stored procedures that were used for complex processing.  
+Gained much experience developing programs that control Microsoft Word and Excel applications.  
+Worked toward fixed target dates for trade shows. 
+Developed user interface systems for sale to external clients.
+
+
+
+King County
+Blue Cross
+Consolidated Freightways
+ 
+Toastmaster
+Certificate in Web Development (in progress)	Bellevue College
+Certificate in .Net Advanced Web Development	University of Washington
+Database Development (SQL Server 2012)			University of Washington
+Agile Developer Boot Camp				        Construx
+Master of Software Engineering				    Seattle University
+Bachelor of Business Administration			    University of Oregon
